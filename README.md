@@ -1,4 +1,4 @@
-# Client-AC (.asi)
+# FileDetect (.asi)
 
 Plugin anticheat sisi client untuk SA-MP. Mendeteksi module, proses, dan file yang umum dipakai untuk cheat/mod di GTA:SA, lalu melaporkannya ke admin server lewat webhook Discord.
 

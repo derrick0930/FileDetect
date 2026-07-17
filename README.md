@@ -88,4 +88,4 @@ Server harus terdaftar terlebih dahulu supaya laporan dari plugin ini bisa diter
 
 Your server must be registered first so reports from this plugin can be forwarded to your Discord webhook. Registration is done at:
 
-https://samp-api-blue.vercel.app/
+https://samp.derrick.web.id/

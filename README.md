@@ -16,6 +16,7 @@ Setelah masuk ke server, plugin ini akan memeriksa:
 
 Kalau ada temuan, laporan dikirim ke server yang sedang kamu mainkan. Laporan berisi:
 
+- Username pemain di server SA-MP
 - Alamat IP dan port server
 - Nama komputer dan username Windows kamu
 - Daftar temuan, dikelompokkan jadi: ASI, Lua/MoonLoader, CLEO, SAMPFUN, dan Lainnya
@@ -32,6 +33,7 @@ After joining a server, this plugin checks:
 
 If anything is found, a report is sent to the server you are currently playing on. The report includes:
 
+- The player's SA-MP username
 - The server's IP address and port
 - Your computer name and Windows username
 - The list of findings, grouped into: ASI, Lua/MoonLoader, CLEO, SAMPFUN, and Other
